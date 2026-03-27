@@ -1,0 +1,5 @@
+*.txt
+*.md
+.git
+.gitignore
+converter/*_test.go

@@ -1,0 +1,6 @@
+name = "showrockettolink"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+# After deploying, set your bot token:
+#   npx wrangler secret put TELEGRAM_BOT_TOKEN

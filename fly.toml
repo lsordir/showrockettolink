@@ -1,0 +1,14 @@
+app = "showrockettolink"
+primary_region = "ams"
+
+[build]
+
+[env]
+
+[processes]
+  bot = "/bot"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "256mb"
+  cpus = 1
